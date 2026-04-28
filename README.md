@@ -1,4 +1,4 @@
-📊 # Análise do Consumo de Energia Elétrica no Brasil
+# 📊 Análise do Consumo de Energia Elétrica no Brasil
 
 Este projeto realiza uma Análise Exploratória de Dados (EDA) do consumo de energia elétrica no Brasil, com foco na identificação e comparação dos períodos de retração do consumo observados nos anos de 2008–2009, 2014–2016 e 2019–2020.
 O objetivo é entender como diferentes tipos de consumo contribuíram para cada uma dessas crises, utilizando dados oficiais do setor elétrico brasileiro.
