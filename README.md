@@ -5,10 +5,10 @@ O objetivo é entender como diferentes tipos de consumo contribuíram para cada 
 
 # 🎯 Objetivo do Projeto
 
-Analisar a evolução do consumo de energia elétrica ao longo dos anos
-Identificar períodos de queda no consumo agregado
-Avaliar a contribuição de cada tipo de consumo (Residencial, Comercial, Industrial e Outros) nas diferentes crises
-Comparar padrões entre crises de naturezas distintas (financeira, econômica doméstica e pandêmica)
+- Analisar a evolução do consumo de energia elétrica ao longo dos anos
+- Identificar períodos de queda no consumo agregado
+- Avaliar a contribuição de cada tipo de consumo (Residencial, Comercial, Industrial e Outros) nas diferentes crises
+- Comparar padrões entre crises de naturezas distintas (financeira, econômica doméstica e pandêmica)
 
 
 # 🗂️ Fonte dos Dados
@@ -24,35 +24,22 @@ Os dados foram tratados para garantir consistência analítica, sendo excluídas
 As principais etapas da análise foram:
 
 
-Tratamento e verificação dos dados
+- Tratamento e verificação dos dados
+  - Identificação e análise de valores ausentes
+  - Seleção dos tipos de consumo com dados consistentes
+  
+- Análise da evolução temporal
+  - Agregação do consumo anual
+  - Identificação visual dos períodos de retração
 
-Identificação e análise de valores ausentes
-Seleção dos tipos de consumo com dados consistentes
+- Análise das crises
+  - Comparação entre anos pré-crise e anos de contração
+  - Cálculo da variação absoluta do consumo
+  - Decomposição da variação total por tipo de consumo
 
-
-
-Análise da evolução temporal
-
-Agregação do consumo anual
-Identificação visual dos períodos de retração
-
-
-
-Análise das crises
-
-Comparação entre anos pré-crise e anos de contração
-Cálculo da variação absoluta do consumo
-Decomposição da variação total por tipo de consumo
-
-
-
-Visualização dos resultados
-
-Gráficos de linha para evolução temporal
-Gráficos de barras com eixo zero para análise de contribuição setorial
-
-
-
+- Visualização dos resultados
+  - Gráficos de linha para evolução temporal
+  - Gráficos de barras com eixo zero para análise de contribuição setorial
 
 # 📈 Principais Resultados
 
